@@ -93,7 +93,7 @@ body{
     left: 20px;
 }
 #hero{
-    background-image: url("../TMS/images/i.jpg");
+    background-image: url("images/i.jpg");
     background-color: rgb(246, 203, 238);
     height: 90vh;
     width: 100%;
@@ -112,7 +112,7 @@ body{
     color: rgb(20, 145, 95);
 }
 #hero button{
-    background-image: url("../TMS/images/button.png");
+    background-image: url("images/button.png");
     background-color: transparent;
     color: rgb(20, 145, 95);
     border: 0;
@@ -237,7 +237,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("../TMS/images/b2.jpg");
+    background-image: url("images/b2.jpg");
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -264,7 +264,7 @@ body{
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url("../TMS/images/b14.png");
+    background-image: url("images/b14.png");
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: #041e42;
@@ -400,7 +400,7 @@ ul{
     display: none;
 }
 #page-header{
-    background-image: url("../TMS/images/b1.jpg");
+    background-image: url("images/b1.jpg");
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -478,7 +478,7 @@ ul{
     line-height: 40px;
 }
 #page-header.blog-header{
-    background-image: url("../TMS/images/b19.jpg");
+    background-image: url("images/b19.jpg");
 }
 #blog{
     padding: 150px 150px 0 150px;
@@ -535,7 +535,7 @@ ul{
     z-index: -9;
 }
 #page-header.about-header{
-    background-image: url("../TMS/images/banner.png");
+    background-image: url("images/banner.png");
 }
 #about-head{
     display: flex;
